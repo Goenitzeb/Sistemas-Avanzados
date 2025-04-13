@@ -1,0 +1,9 @@
+1- Cambiar la primera linea del archivo crear_tarea.ps1 donde se encuentra la direccion, cambiarla por donde se coloque tanto la carpeta y el archivo monitor.exe
+2- Abre el menú Inicio y busca "PowerShell".
+3- Haz clic derecho sobre "Windows PowerShell" y elige "Ejecutar como administrador".
+4- Una vez abierto, ve a la carpeta del script (en mi caso): cd "C:\Users\Compu\Desktop\MonitorRust"
+5- Escribir la linea y darle enter en la consola: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+6- .\crear_tarea.ps1
+7- La tarea quedo programada y se ejecutará cada 10 min durante dos dias. En caso de que solo se quiera ejecutar una vez es suficiente con ejecutar el archivo monitor.exe. El resultado (archivo json) se encuentra en la dirección: "C:\\Monitoreo"
+
+En github se encuentra toda la carpeta del proyecto c:
