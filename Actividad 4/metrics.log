@@ -1,0 +1,106 @@
+2025-03-31 16:31:05 - CPU: 40.81% | Mem: 39.04%
+2025-03-31 16:39:33
+CPU: 34.83% | Frecuencia: 0 MHz
+Núcleo 0: 70.91%
+Núcleo 1: 17.34%
+Núcleo 2: 32.42%
+Núcleo 3: 26.29%
+Núcleo 4: 27.57%
+Núcleo 5: 23.40%
+Núcleo 6: 29.03%
+Núcleo 7: 14.04%
+Núcleo 8: 33.72%
+Núcleo 9: 33.34%
+Núcleo 10: 61.88%
+Núcleo 11: 51.93%
+Núcleo 12: 34.93%
+Núcleo 13: 36.17%
+Núcleo 14: 36.66%
+Núcleo 15: 27.65%
+Memoria: 7048968 MB / 16710852 MB
+Swap: 0 MB / 4980736 MB
+Caché: 9661884 MB
+
+2025-03-31 16:56:48
+CPU: 34.90% | Frecuencia: 0 MHz
+Núcleo 0: 41.58%
+Núcleo 1: 54.22%
+Núcleo 2: 80.81%
+Núcleo 3: 24.71%
+Núcleo 4: 37.09%
+Núcleo 5: 19.63%
+Núcleo 6: 31.59%
+Núcleo 7: 30.57%
+Núcleo 8: 37.19%
+Núcleo 9: 34.76%
+Núcleo 10: 36.24%
+Núcleo 11: 22.19%
+Núcleo 12: 31.99%
+Núcleo 13: 27.72%
+Núcleo 14: 30.71%
+Núcleo 15: 17.47%
+Memoria: 7442336 MB / 16710852 MB
+Swap: 0 MB / 4980736 MB
+Caché: 9268516 MB
+Red: 35.82 MB recibidos / 12.23 MB enviados
+Temperaturas:
+
+
+2025-04-01 12:18:29
+CPU: 71.15% | Frecuencia: 0 MHz
+Núcleo 0: 83.01%
+Núcleo 1: 63.42%
+Núcleo 2: 81.91%
+Núcleo 3: 63.54%
+Núcleo 4: 85.66%
+Núcleo 5: 63.84%
+Núcleo 6: 84.73%
+Núcleo 7: 61.88%
+Núcleo 8: 65.00%
+Núcleo 9: 73.13%
+Núcleo 10: 69.35%
+Núcleo 11: 65.23%
+Núcleo 12: 66.84%
+Núcleo 13: 67.97%
+Núcleo 14: 68.36%
+Núcleo 15: 74.60%
+Memoria: 9783016 MB / 16710852 MB
+Swap: 0 MB / 4980736 MB
+Caché: 6927836 MB
+Red: 498.19 MB recibidos / 35.05 MB enviados
+Disco: 32291.52 MB leídos / 9075.67 MB escritos
+Temperaturas:
+
+
+2025-04-04 17:16:07
+CPU: 49.70% | Frecuencia: 0 MHz
+Núcleo 0: 70.91%
+Núcleo 1: 44.56%
+Núcleo 2: 64.40%
+Núcleo 3: 46.41%
+Núcleo 4: 52.13%
+Núcleo 5: 45.14%
+Núcleo 6: 47.00%
+Núcleo 7: 45.21%
+Núcleo 8: 53.54%
+Núcleo 9: 43.19%
+Núcleo 10: 51.42%
+Núcleo 11: 45.70%
+Núcleo 12: 49.33%
+Núcleo 13: 43.05%
+Núcleo 14: 50.06%
+Núcleo 15: 43.21%
+Memoria: 6833200 MB / 16710852 MB
+Swap: 0 MB / 4980736 MB
+Caché: 9877652 MB
+Red: 68.80 MB recibidos / 11.02 MB enviados
+Disco: 12685.85 MB leídos / 5939.71 MB escritos
+Temperaturas:
+
+Top 5 procesos por uso de CPU:
+act4.exe (PID 16116): 100.00% CPU, 16932864 KB memoria
+svchost.exe (PID 8124): 0.00% CPU, 11128832 KB memoria
+postgres.exe (PID 6268): 0.00% CPU, 4935680 KB memoria
+svchost.exe (PID 8204): 0.00% CPU, 9515008 KB memoria
+FileCoAuth.exe (PID 15016): 0.00% CPU, 8720384 KB memoria
+
